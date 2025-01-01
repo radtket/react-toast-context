@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/react-toast-context/static/css/main.d25e4dee.chunk.css",
+    "main.js": "/react-toast-context/static/js/main.db024ac2.chunk.js",
+    "main.js.map": "/react-toast-context/static/js/main.db024ac2.chunk.js.map",
+    "runtime-main.js": "/react-toast-context/static/js/runtime-main.2c41aa11.js",
+    "runtime-main.js.map": "/react-toast-context/static/js/runtime-main.2c41aa11.js.map",
+    "static/js/2.bba190da.chunk.js": "/react-toast-context/static/js/2.bba190da.chunk.js",
+    "static/js/2.bba190da.chunk.js.map": "/react-toast-context/static/js/2.bba190da.chunk.js.map",
+    "index.html": "/react-toast-context/index.html",
+    "precache-manifest.70809f3436d4e488e5d3ed8358a6988b.js": "/react-toast-context/precache-manifest.70809f3436d4e488e5d3ed8358a6988b.js",
+    "service-worker.js": "/react-toast-context/service-worker.js",
+    "static/css/main.d25e4dee.chunk.css.map": "/react-toast-context/static/css/main.d25e4dee.chunk.css.map",
+    "static/js/2.bba190da.chunk.js.LICENSE.txt": "/react-toast-context/static/js/2.bba190da.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.2c41aa11.js",
+    "static/js/2.bba190da.chunk.js",
+    "static/css/main.d25e4dee.chunk.css",
+    "static/js/main.db024ac2.chunk.js"
+  ]
+}
